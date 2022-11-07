@@ -1,0 +1,58 @@
+.video-picture-container{
+    position:relative;
+
+}
+
+.video-time{
+    position:absolute;
+    bottom: 10px;;
+    right:5px;
+    color:white;
+    background-color: black;
+    font-size: 12px;
+    padding: 2px;
+    border-radius: 10%;
+
+}
+
+.video-picture{
+    width:100%;
+}
+
+.video-profil-picture-description-container{
+    margin-top:12px;
+}
+
+
+.video-profil-picture-container{
+    display:inline-block;
+    vertical-align: top;
+}
+
+.video-profil-picture{
+    width: 40px;
+    border-radius: 100%;
+}
+
+
+
+.video-description-container{
+    display:inline-block;
+    width:250px;
+}
+
+.video-title{
+    margin-top:0px;
+}
+
+.video-title{
+    font-weight:700;
+
+}
+
+.video-views{
+    font-size: 14px;
+    color:gray;
+    line-height: 18px;
+}
+
